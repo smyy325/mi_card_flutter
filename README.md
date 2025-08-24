@@ -18,10 +18,10 @@ This project is a practice app developed while following Angela Yu’s Flutter c
 - Kartlar ve ListTile ile düzenli içerik | Organized content with Card & ListTile  
 
 ---
-<img width="338" height="747" alt="Image" src="https://github.com/user-attachments/assets/ea6747cf-cb46-4899-af64-aba23f5f5493" />
 ## 🛠 Kullanılan Teknolojiler | Technologies Used  
 
 - Flutter  
 - Dart  
 
 ---
+<img width="338" height="747" alt="Image" src="https://github.com/user-attachments/assets/ea6747cf-cb46-4899-af64-aba23f5f5493" />
